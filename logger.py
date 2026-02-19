@@ -1,6 +1,6 @@
 import logging
 import os
-
+#test
 def setup_logger():
     """Настройка системы логирования"""
     
